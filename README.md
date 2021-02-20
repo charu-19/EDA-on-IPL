@@ -1,5 +1,5 @@
 
-# Sparks Foundation DataScience Internship Project(task 5) :
+# Sparks Foundation DataScience Internship Project(task 5) 
 Exploratory Data Analysis - Sports
 (Level - Advanced)
 
